@@ -1,0 +1,7 @@
+.Rcheck/
+*.tar.gz
+*.Rout
+.Rhistory
+__pycache__/
+.test-library/
+*.Rcheck/

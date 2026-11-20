@@ -1,0 +1,11 @@
+Package: fasttwfeR
+Type: Package
+Title: Native TWFE Reference Estimation and Inference
+Version: 0.1.0
+Authors@R: person("Matthew D.", "Webb", email = "matt.webb@carleton.ca", role = c("aut", "cre"))
+Description: Independent base R implementation of static difference-in-differences
+    estimation with estimator-specific clustered covariance, complete cluster
+    deletion, and assignment-explicit randomization inference. Development software.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports: stats, utils
